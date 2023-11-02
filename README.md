@@ -7,3 +7,9 @@ Backend application to serve pokedex data with GraphQL
 ```code
 $ go run server.go
 ```
+
+# Vendor dependencies
+
+```code
+$ go mod vendor
+```
